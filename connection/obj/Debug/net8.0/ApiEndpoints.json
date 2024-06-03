@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "connection.Controllers.connexion",
+    "Method": "getconnexion",
+    "RelativePath": "api/connexion/api/connexion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cnx",
+        "Type": "connection.Controllers.connexion\u002BConnexion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

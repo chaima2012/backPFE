@@ -1,0 +1,119 @@
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\farouha\source\repos\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\star store\Desktop\work\back\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\adem\Desktop\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.deps.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.runtimeconfig.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\bin\Debug\net8.0\FinalHackBank.CORE.pdb
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.AssemblyReference.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfoInputs.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.AssemblyInfo.cs
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.csproj.CoreCompileInputs.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHac.0C4683BF.Up2Date
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\refint\FinalHackBank.EF.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.pdb
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\FinalHackBank.EF.genruntimeconfig.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\FinalHackBank.EF\obj\Debug\net8.0\ref\FinalHackBank.EF.dll

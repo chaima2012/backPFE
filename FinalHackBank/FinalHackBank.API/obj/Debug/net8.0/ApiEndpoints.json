@@ -1,0 +1,1285 @@
+[
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BidController",
+    "Method": "AddBidAsync",
+    "RelativePath": "api/Bid/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bidDto",
+        "Type": "FinalHackBank.CORE.Dto.BidDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BidController",
+    "Method": "GetAll",
+    "RelativePath": "api/Bid/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BidController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Bid/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BidController",
+    "Method": "Delete",
+    "RelativePath": "api/Bid/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BidController",
+    "Method": "UpdateBidByIdAsync",
+    "RelativePath": "api/Bid/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bidDto",
+        "Type": "FinalHackBank.CORE.Dto.BidDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CallController",
+    "Method": "AddEquipementAsync",
+    "RelativePath": "api/Call/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "callDto",
+        "Type": "FinalHackBank.CORE.Dto.CallDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CallController",
+    "Method": "GetAll",
+    "RelativePath": "api/Call/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CallController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Call/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CallController",
+    "Method": "Delete",
+    "RelativePath": "api/Call/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CallController",
+    "Method": "UpdatecallByIdAsync",
+    "RelativePath": "api/Call/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "callDto",
+        "Type": "FinalHackBank.CORE.Dto.CallDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CompanyController",
+    "Method": "AddrequestAsync",
+    "RelativePath": "api/Company/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bidDto",
+        "Type": "FinalHackBank.CORE.Dto.BidDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CompanyController",
+    "Method": "GetAll",
+    "RelativePath": "api/Company/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CompanyController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Company/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CompanyController",
+    "Method": "Delete",
+    "RelativePath": "api/Company/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.CompanyController",
+    "Method": "UpdateRequestByIdAsync",
+    "RelativePath": "api/Company/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bidDto",
+        "Type": "FinalHackBank.CORE.Dto.BidDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/Decision/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DecisionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Decision/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/Decision/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Decision/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Decision/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Decision/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DecisionDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/Decision/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/Decision/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DecisionDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Decision, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DecisionDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/Decision/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/Department/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Department/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/Department/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Department/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Department/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Department/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DepartmentDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/Department/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/Department/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.DepartmentDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Department, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.DepartmentDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/Department/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.DocumenttController",
+    "Method": "AdddocumenttAsync",
+    "RelativePath": "api/Documentt/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "docDto",
+        "Type": "FinalHackBank.CORE.Dto.DocumenttDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.DocumenttController",
+    "Method": "GetAll",
+    "RelativePath": "api/Documentt/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.DocumenttController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Documentt/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.DocumenttController",
+    "Method": "Delete",
+    "RelativePath": "api/Documentt/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.DocumenttController",
+    "Method": "UpdatedocumenttByIdAsync",
+    "RelativePath": "api/Documentt/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "docDto",
+        "Type": "FinalHackBank.CORE.Dto.DocumenttDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.RequesttController",
+    "Method": "AddrequestAsync",
+    "RelativePath": "api/Requestt/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requesttDto",
+        "Type": "FinalHackBank.CORE.Dto.RequesttDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.RequesttController",
+    "Method": "GetAll",
+    "RelativePath": "api/Requestt/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.RequesttController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Requestt/GetById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.RequesttController",
+    "Method": "Delete",
+    "RelativePath": "api/Requestt/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.RequesttController",
+    "Method": "UpdateRequestByIdAsync",
+    "RelativePath": "api/Requestt/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requesttDto",
+        "Type": "FinalHackBank.CORE.Dto.RequesttDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/Role/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.RoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Role/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/Role/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Role/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Role/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Role/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.RoleDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/Role/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/Role/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.RoleDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Role, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.RoleDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/Role/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/Status/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Status/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/Status/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Status/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Status/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Status/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/Status/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/Status/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.Status, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/Status/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/StatusDemand/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDemandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/StatusDemand/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/StatusDemand/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/StatusDemand/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/StatusDemand/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/StatusDemand/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDemandDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/StatusDemand/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/StatusDemand/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusDemandDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusDemand, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusDemandDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/StatusDemand/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "AddAsync",
+    "RelativePath": "api/StatusUser/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/StatusUser/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByNameAsync",
+    "RelativePath": "api/StatusUser/GetByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/StatusUser/id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/StatusUser/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/StatusUser/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusUserDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "DeleteByName",
+    "RelativePath": "api/StatusUser/Nom",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateEtatMPCByName",
+    "RelativePath": "api/StatusUser/Nom",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FinalHackBank.CORE.Dto.StatusUserDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalHackBank.API.Controllers.BaseController\u00602[[FinalHackBank.CORE.Models.StatusUser, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FinalHackBank.CORE.Dto.StatusUserDto, FinalHackBank.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetIdapartirLibelle",
+    "RelativePath": "api/StatusUser/returnid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nom",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

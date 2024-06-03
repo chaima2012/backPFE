@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FinalHackBank.API",
+    "\\FinalHackBank.API\\Helpers",
+    "\\FinalHackBank.CORE",
+    "\\FinalHackBank.EF",
+    "\\FinalHackBank.EF\\Repositories"
+  ],
+  "SelectedNode": "\\FinalHackBank.EF\\Repositories\\CallRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

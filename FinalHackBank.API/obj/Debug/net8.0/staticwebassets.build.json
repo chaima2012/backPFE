@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "n08AsjYyn4/bZQ/Uz+GPvumdaQyA3nn7FLst54S1ZRU=",
+  "Source": "FinalHackBank.API",
+  "BasePath": "_content/FinalHackBank.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalHackBank.API\\wwwroot",
+      "Source": "FinalHackBank.API",
+      "ContentRoot": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\",
+      "BasePath": "_content/FinalHackBank.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\assets\\img\\15.jpg",
+      "SourceId": "FinalHackBank.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\",
+      "BasePath": "_content/FinalHackBank.API",
+      "RelativePath": "assets/img/15.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\assets\\img\\18.jpg",
+      "SourceId": "FinalHackBank.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\",
+      "BasePath": "_content/FinalHackBank.API",
+      "RelativePath": "assets/img/18.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\18.jpg"
+    }
+  ]
+}

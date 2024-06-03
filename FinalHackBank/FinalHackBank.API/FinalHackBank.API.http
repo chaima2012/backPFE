@@ -1,0 +1,6 @@
+@FinalHackBank.API_HostAddress = http://localhost:5034
+
+GET {{FinalHackBank.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

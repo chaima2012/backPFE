@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\assets\\img\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\star store\\Desktop\\PFE PROJECT\\FinalHackBank\\FinalHackBank.API\\wwwroot\\assets\\img\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\18.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalHackBank.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalHackBank.API.props",
+      "PackagePath": "build\\FinalHackBank.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalHackBank.API.props",
+      "PackagePath": "buildMultiTargeting\\FinalHackBank.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalHackBank.API.props",
+      "PackagePath": "buildTransitive\\FinalHackBank.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

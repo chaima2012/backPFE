@@ -1,0 +1,335 @@
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\farouha\Desktop\backend\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\star store\Desktop\PFE\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\Faycel\Downloads\FinalHackBank\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\Faycel\Downloads\FinalHackBank-20240521T143238Z-001\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\adem\Desktop\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adem\Desktop\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\adem\Desktop\New folder (7)\angularproject\src\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\appsettings.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\connection.exe
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\connection.deps.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\connection.runtimeconfig.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\connection.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\connection.pdb
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.AssemblyReference.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfoInputs.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.AssemblyInfo.cs
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.CoreCompileInputs.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.connection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.build.connection.props
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.connection.props
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.connection.props
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\scopedcss\bundle\connection.styles.css
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.csproj.Up2Date
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\refint\connection.dll
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.pdb
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\connection.genruntimeconfig.cache
+C:\Users\star store\Desktop\PFE PROJECT\FinalHackBank\connection\obj\Debug\net8.0\ref\connection.dll
